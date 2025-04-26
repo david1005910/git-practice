@@ -8,9 +8,7 @@ assignees: ''
 ---
 
 ## Summary 
-한 줄로 해당 작업사항에 대한 설명 
-디테일하게 다시 설명(사진 영상 등 자유롭게 추가 가능) 
-
+The practice of Fibonacci code
 ## Proposed Changes 
 
 - 작업사항(close #{issue_num}) 
